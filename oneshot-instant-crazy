@@ -69,7 +69,7 @@ serverChatAscii = 0
 separateChatForTeams = 1
 serverName = "MultiOgarBlob"
 serverWelcome1 = "Welcome to Blob!\nType /help too see commands!"
-serverWelcome2 = "OneShot Instant"
+serverWelcome2 = "OneShot Instant Crazy"
 
 # [Border]
 # Border size (vanilla 14142.135623730952)
